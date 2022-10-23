@@ -1,80 +1,69 @@
+Module : https://www.mediafire.com/file/lr792u729liv5qp/archive-2022-07-09T062602Z.tar.gz/file
 <p align="center">
-    <img src="https://telegra.ph/file/7ff09176639655a9fb919.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+    <img src="https://telegra.ph/file/eaabc97cb81180be2c9a6.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">FangzBOT - MD</h1>
+<h1 align="center">KannaBOT - MD</h1>
 <p align="center">
-  <a href="https://github.com/Fangzbotz2007"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Fangz+BOT+Multi+Device;Base+ori+by+BochilGaming;Recode+By+Fangz;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="UwU">
+  <a href="https://github.com/ImYanXiao"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Kanna+BOT+Multi+Device;Base+ori+by+BochilGaming;Recode+By+YanXiao;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="ʘᴗʘ">
 </p>
 
 <p align="center">
- <a href="#"><img title="FangzBOT" src="https://img.shields.io/badge/FANGZ BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+ <a href="#"><img title="KannaBOT" src="https://img.shields.io/badge/Kanna BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href=""><img title="Author" src="https://img.shields.io/badge/AUTHOR-FANGZ-blue.svg?style=for-the-badge&logo=github"></a>
-</p>
-<a href="https://github.com/Fangzbotz2007/FangzBOT-MDnetwork/members"><img title="Forks" src="https://img.shields.io/github/forks/Fangzbotz2007/KannaBOT-MD?label=Forks&color=blue&style=flat-square"></a>
-<a href="https://github.com/Fangzbotz2007/FangzBOT-MDlwatchers"><img title="Watchers" src="https://img.shields.io/github/watchers/Fangzbotz2007/KannaBOT-MD?label=Watchers&color=green&style=flat-square"></a>
-<a href="https://github.com/Fangzbotz2007/FangzBOT-MDstargazers"><img title="Stars" src="https://img.shields.io/github/stars/Fangzbotz2007/KannaBOT-MD?label=Stars&color=yellow&style=flat-square"></a>
-<a href="https://github.com/Fangzbotz2007/FangzBOT-MDgraphs/contributors"><img title="Contributors" src="https://img.shields.io/github/contributors/Fangzbotz2007/KannaBOT-MD?label=Contributors&color=blue&style=flat-square"></a>
-<a href="https://github.com/Fangzbotz2007/FangzBOT-MDissues"><img title="Issues" src="https://img.shields.io/github/issues/Fangzbotz2007/KannaBOT-MD?label=Issues&color=success&style=flat-square"></a>
-<a href="https://github.com/Fangzbotz2007/FangzBOT-MDissues?q=is%3Aissue+is%3Aclosed"><img title="Issues" src="https://img.shields.io/github/issues-closed/Fangzbotz2007/KannaBOT-MD?label=Issues&color=red&style=flat-square"></a>
-<a href="https://github.com/Fangzbotz2007/FangzBOT-MDpulls"><img title="Pull Request" src="https://img.shields.io/github/issues-pr/Fangzbotz2007/KannaBOT-MD?label=PullRequest&color=success&style=flat-square"></a>
-<a href="https://github.com/Fangzbotz2007/FangzBOT-MDpulls?q=is%3Apr+is%3Aclosed"><img title="Pull Request" src="https://img.shields.io/github/issues-pr-closed/Fangzbotz2007/KannaBOT-MD?label=PullRequest&color=red&style=flat-square"></a>
+<a href="https://github.com/LeonGantengz"><img title="Author" src="https://img.shields.io/badge/AUTHOR-Zakuro-blue.svg?style=for-the-badge&logo=github"></a>
 
 ---------
 ## ```Connect With Me 📞``` <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="32px">
-  <a href="https://wa.me/6288215689772">
+  <a href="https://wa.me/6285608625102">
     <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
   </a> &nbsp;&nbsp;
-  <a href="https://tiktok.com/@fangzjb">
-    <img align="left" alt="SIEGRIN | Titkok" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Tiktok.svg" />
-  </a> &nbsp;&nbsp;
-  <a href="https://instagram.com/fangzganz?igshid=YmMyMTA2M2Y=">
+  <a href="https://www.instagram.com/leonvx._">
     <img align="left" alt="SIEGRIN | Instagram" width="24px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Instagram.svg" />
   </a> &nbsp;&nbsp;
-  <a href="mailto:darmapryanda1@gmail.com">
+  <a href="mailto:leonganz.kry@gmail.com">
     <img align="left" alt="SIEGRIN | Gmail" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
 ---------
 
-## ```Whatsapp``` <a href="https://wa.me/6288215689772"> <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
-[![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/62895394988123) 
-[![ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6288215689772) 
-[![GROUP OFFICIAL](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/HpxyS6b45SoGIKG7LHddiM) 
+## ```Whatsapp``` <a href="https://wa.me/6285736178354"> <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
+[![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+62895410472842) 
+[![ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285608625102) 
+[![GROUP OFFICIAL](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://tinyurl.com/ya4dpmdv) 
 ---------
 
-#### KELEBIHAN 📍
+#### KELEBIHAN 🪄
 | Kelebihan | Check |
 |--------|--------|
-| **Fast Respon** |[✔️](https://github.com/Fangzbotz2007) |
-| **No Internet** |[✔️](https://github.com/Fangzbotz2007) |
-| **Simple** |[✔️](https://github.com/Fangzbotz2007) |
-| **Button template** |[✔️](https://github.com/Fangzbotz2007) |
-| **Multi Device** |[✔️](https://github.com/Fangzbotz2007) |
+| **Fast Respon** |[✔️](https://github.com/ImYanXiao) |
+| **No Internet** |[✔️](https://github.com/ImYanXiao) |
+| **Simple** |[✔️](https://github.com/ImYanXiao) |
+| **Button template** |[✔️](https://github.com/ImYanXiao) |
+| **Multi Device** |[✔️](https://github.com/ImYanXiao) |
 ---------
-#### FITUR 📍
+#### FITUR 🎀
 | Fitur | Check |
 |--------|--------|
-| **Downloader** |[✔️](https://github.com/Fangzbotz2007) |
-| **Internet** |[✔️](https://github.com/Fangzbotz2007) |
-| **Game Rpg** |[✔️](https://github.com/Fangzbotz2007) |
-| **Nsfw** |[✔️](https://github.com/Fangzbotz2007) |
-| **Sticker** |[✔️](https://github.com/Fangzbotz2007) |
-| **Game** |[✔️](https://github.com/Fangzbotz2007) |
-| **Kerang Ajaib** |[✔️](https://github.com/Fangzbotz2007) |
-| **Quotes** |[✔️](https://github.com/Fangzbotz2007) |
-| **Anime** |[✔️](https://github.com/Fangzbotz2007) |
-| **Premium** |[✔️](https://github.com/Fangzbotz2007) |
-| **Tools** |[✔️](https://github.com/Fangzbotz2007) |
-| **Exec** |[✔️](https://github.com/Fangzbotz2007) |
-| **React** |[✔️](https://github.com/Fangzbotz2007) |
+| **Downloader** |[✔️](https://github.com/ImYanXiao) |
+| **Internet** |[✔️](https://github.com/ImYanXiao) |
+| **Game Rpg** |[✔️](https://github.com/ImYanXiao) |
+| **Nsfw** |[✔️](https://github.com/ImYanXiao) |
+| **Sticker** |[✔️](https://github.com/ImYanXiao) |
+| **Game** |[✔️](https://github.com/ImYanXiao) |
+| **Kerang Ajaib** |[✔️](https://github.com/ImYanXiao) |
+| **Quotes** |[✔️](https://github.com/ImYanXiao) |
+| **Anime** |[✔️](https://github.com/ImYanXiao) |
+| **Premium** |[✔️](https://github.com/ImYanXiao) |
+| **Tools** |[✔️](https://github.com/ImYanXiao) |
+| **Exec** |[✔️](https://github.com/ImYanXiao) |
+| **React** |[✔️](https://github.com/ImYanXiao) |
 ---------
 
 ## `SETTING`
 
-- Owner Number [Here](https://github.com/kannachann/kannabot-md/blob/multi-device/config.js#L1)
-- Owner Name [Here](https://github.com/kannachann/kannabot-md/blob/multi-device/config.js#L1)
-- Bot Name [Here](https://github.com/kannachann/kannabot-md/blob/multi-device/config.js#L1)
+- Owner Number [Here](https://github.com/LeonGantengz/kannaxyui/blob/master/config.js#L1)
+- Owner Name [Here](https://github.com/LeonGantengz/kannaxyui-multidevice/blob/master/config.js#L1)
+- Bot Name [Here](https://github.com/LeonGantengz/kannaxyui/blob/master/config.js#L1)
 ---------
 
 ## ```Heroku Buildpack```
@@ -83,7 +72,7 @@
 | BuildPack | LINK |
 |--------|--------|
 | **FFMPEG** |[here](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest) |
-| **IMAGEMAGICK** | [here](https://github.com/DuckyTeam/heroku-buildpack-imagemagick) |
+| **IMAGEMAGICK** | [here](https://github.com/rocketmobile/heroku-buildpack-imagemagick.git) |
 
 ## TERMUX USER
 ```bash
@@ -92,11 +81,11 @@ $ pkg install git -y
 $ pkg install nodejs -y
 $ pkg install ffmpeg -y
 $ pkg install imagemagick -y
-$ git clone https://github.com/Fangzbotz2007/FangzBOT-MD
-$ cd FangzBOT-MD-master
+$ git clone https://github.com/ImYanXiao/Kanna-MultiDevice
+$ cd Kanna-MultiDevice
 $ npm i 
 ```
-If error try using yarn instead of npm, see [here](https://github.com/kannachann/KannaBOT-MD#if-npm-install-failed--try--using-yarn-instead-of-npm)
+If error try using yarn instead of npm, see [here](https://github.com/BochilGaming/games-wabot/tree/multi-device#if-npm-install-failed--try--using-yarn-instead-of-npm)
 ```bash
 $ node .
 ```
@@ -129,14 +118,14 @@ apt install wget curl git ffmpeg imagemagick build-essential libcairo2-dev libpa
 
 ---------
 
-[ INSTALLING NODEJS & FANGZ BOT-MD]
+[ INSTALLING NODEJS & KANNABOT-MD]
 
 ```bash
 ubuntu
 curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
 apt install -y nodejs gcc g++ make
-git clone https://github.com/Fangzbotz2007/FangzBOT-MD
-cd FangzBOT-MD-master
+git clone https://github.com/ImYanXiao/Kanna-MultiDevice
+cd Kanna-MultiDevice
 npm install
 npm update
 ```
@@ -151,15 +140,15 @@ npm update
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/Fangzbotz2007/FangzBOT-MD
-cd FangzBOT-MD-master
+git clone https://github.com/ImYanXiao/Kanna-MultiDevice
+cd Kanna-MultiDevice
 npm install
 npm update
 ```
 
 ---------
 
-## Run 📛
+## Run 🏃
 
 ```bash
 node .
@@ -236,27 +225,33 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/Boc
 2. Sebelum pakai jangan lupa kasih star
 3. Follow Github !
 4. Jangan salah gunakan script ini!
-5. Jangan lupa Subscribe Youtube
-6. Jika ada eror di sc hub Fangz
 
 ---------
 
+### ❗ Note : Apikeynya Beli Sendiri Ya Guys😁
+
+---------
 
 ## ```Thanks to ✨```
-* [`Allah SWT`](https://github.com/Fangzbotz2007)
-* [`My parents`](https://github.com/Fangzbotz2007)
-* [`All Friends`](https://github.com/Fangzbotz2007)
-* [`All Contributors`](https://github.com/Fangzbotz2007)
-* [`All Creator Bot`](https://github.com/Fangzbotz2007)
+* [`Allah SWT`](https://github.com/ImYanXiao)
+* [`My parents`](https://github.com/ImYanXiao)
+* [`All Friends`](https://github.com/ImYanXiao)
+* [`All Contributors`](https://github.com/ImYanXiao)
+* [`All Creator Bot`](https://github.com/ImYanXiao)
 * [`Adiwajshing`](https://github.com/adiwajshing/Baileys)
-* [`Nurutomo`](https://github.com/nurutomo)
+* [`Nurutomo`](https://github.com/nurutomi)
 * [`BochilGaming`](https://github.com/bochilgaming)
+* [`KannaChan`](https://github.com/kannachann)
+* [`LeonGanz`](https://github.com/LeonGantengz)
+ 
 
-## ```Recode By 💌```
-[![Fangz BOT](https://github.com/Fangzbotz2007.png?size=100)](https://github.com/Fangzbotz2007)
+## ```Recode By ✏️```
+[![Zakuro](https://github.com/Bl4ck-lion.png?size=70)](https://github.com/ImYanXiao)
 
-## ```Contributor 📣```
+## ```Contributor 🤝```
 * [`The.Sad.Boy01`](https://github.com/Kangsad01)
 * [`AmirulDev20`](https://github.com/amiruldev20)
 * [`Rasel Comel`](https://github.com/raselcomel)
 * [`Rominaru`](https://github.com/rominaru)
+* [`KannaChan`](https://github.com/kannachann)
+* [`Fahri Adison`](https://github.com/FahriAdison)
