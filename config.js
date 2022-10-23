@@ -49,7 +49,7 @@ global.psaweria = 'https://linktr.ee/angga_ozmy' //Saweria
 global.donate = '〔 Dᴏɴᴛ ғᴏʀɢᴇᴛ Dᴏɴᴀᴛɪᴏɴ 〕\n\n››╭─〘 *Donasi* 〙\n╭╡📮: Donasi ngab jangan make bot doang.│\n┝‷✧ *Ovo:* 082142185506\n│┝‷✧ *Dana:* 082142185506\n│┝‷✧ *Gopay:* 082142185506\n│╰───···─────\n│⁺◛˖ Ingin Donasi? Chat nomor owner\n╰──────────···───╮'
 
 /*⫘⫘⫘⫘ GLOBAL NOMOR ⫘⫘⫘⫘⫘*/
-global.nomorbot = '6282142449269' //Nomor Bot mu
+global.nomorbot = '15623804051' //Nomor Bot mu
 global.nomorown = '6282142185506' //Nomormu
 global.namebot = 'YUI BOT' //Nama bot mu
 global.nameown = 'YUI EZZ' //Nama mu
