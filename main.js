@@ -1,7 +1,6 @@
-process.env['NODE_TLS_REJECT_UNAUTHORIZED'] = '0';
-import './config.js';
+import './config.js'
 
-import { createRequire } from "module"; // Bring in the ability to create the 'require' method
+import { createRequire } from "module" // Bring in the ability to create the 'require' method
 import path, { join } from 'path'
 import { fileURLToPath, pathToFileURL } from 'url'
 import { platform } from 'process'
@@ -16,19 +15,19 @@ import {
   readFileSync,
   watch
 } from 'fs';
-import yargs from 'yargs';
-import { spawn } from 'child_process';
-import lodash from 'lodash';
-import syntaxerror from 'syntax-error';
-import { tmpdir } from 'os';
-import { format } from 'util';
-import { makeWASocket, protoType, serialize } from './lib/simple.js';
-import { Low, JSONFile } from 'lowdb';
-import pino from 'pino';
-import {
+import yargs from 'yargs'
+import { spawn } from 'child_process'
+import lodash from 'lodash'
+import syntaxerror from 'syntax-error'
+import { tmpdir } from 'os'
+import { format } from 'util'
+import { makeWASocket, protoType, serialize } from './lib/simple.js'
+import { Low, JSONFile } from 'lowdb'
+import pino from 'pino'
+/*import {
   mongoDB,
   mongoDBV2
-} from './lib/mongoDB.js';
+} from './lib/mongoDB.js' */
 const {
   useSingleFileAuthState,
   DisconnectReason
@@ -50,7 +49,7 @@ global.timestamp = {
 const __dirname = global.__dirname(import.meta.url)
 
 global.opts = new Object(yargs(process.argv.slice(2)).exitProcess(false).parse())
-global.prefix = new RegExp('^[' + (opts['prefix'] || '‎\/!#.\\').replace(/[|\\{}()[\]^$+*?.\-\^]/g, '\\$&') + ']')
+global.prefix = new RegExp('^[' + (opts['prefix'] || '‎‎xzXZ/i!#$%+£¢€¥^°=¶∆×÷π√✓©®:;?&.\\-').replace(/[|\\{}()[\]^$+*?.\-\^]/g, '\\$&') + ']')
 
 global.db = new Low(
   /https?:\/\//.test(opts['db'] || '') ?
@@ -84,15 +83,13 @@ global.loadDatabase = async function loadDatabase() {
   global.db.chain = chain(global.db.data)
 }
 loadDatabase()
-
-global.authFile = `${opts._[0] || 'fangz'}.data.json`
+global.authFile = `${opts._[0] || 'session'}.data.json`
 const { state, saveState } = useSingleFileAuthState(global.authFile)
 
 const connectionOptions = {
   printQRInTerminal: true,
   auth: state,
   // logger: pino({ level: 'trace' })
-  // logger: pino({ level: 'silent' })
 }
 
 global.conn = makeWASocket(connectionOptions)
@@ -121,45 +118,13 @@ function clearTmp() {
   })
 }
 
-const hehe = async (jid, options) => {
-  let wm = 'ꜰᴀɴɢᴢ xᴅ';
-  let gambar = 'https://telegra.ph/file/2d06f0936842064f6b3bb.png';
-  try {
-    gambar = await conn.profilePictureUrl(jid, 'image');
-  } catch (e) {
-
-  } finally {
-  	const peth = (await import('node-fetch')).default
-    gambar = await( await fetch(gambar)).buffer()
-    const fkontak = {
-      key: {
-        participant: `0@s.whatsapp.net`,
-        ...({ remoteJid: 'status@broadcast' })
-      },
-      message: {
-        'contactMessage': {
-          'displayName': wm,
-          'vcard': `BEGIN:VCARD\nVERSION:3.0\nN:XL;${wm},;;;\nFN:${wm},\nitem1.TEL;waid=${jid.split`@`[0]}:${jid.split`@`[0]}\nitem1.X-ALabell:Ponsel\nEND:VCARD`,
-          'jpegThumbnail': gambar,
-          'thumbnail': gambar,
-          'sendEphemeral': true
-        }
-      }
-    }
-    const txt = `\n[ ✅ ] Hallo Owner @${jid.split`@`[0]}, Saya berhasil tersambung ke script mu...\n\n\n📑Sumber Script:\nhttps://tinyurl.com/2apdztc`
-    return await conn.sendMessage(jid, { text: txt, mentions: [jid], ...options }, { quoted: fkontak, ephemeralExpiration: 86400, ...options })
-  }
-}
-
 async function connectionUpdate(update) {
   const { connection, lastDisconnect, isNewLogin } = update
   if (isNewLogin) conn.isInit = true
   const code = lastDisconnect?.error?.output?.statusCode || lastDisconnect?.error?.output?.payload?.statusCode
-  console.log(code)
   if (code && code !== DisconnectReason.loggedOut && conn?.ws.readyState !== CONNECTING) {
     console.log(await global.reloadHandler(true).catch(console.error))
     global.timestamp.connect = new Date
-    return await hehe('6282142185506' + '@s.whatsapp.net').catch(err => { return !0 })
   }
   if (global.db.data == null) loadDatabase()
 }
@@ -192,9 +157,29 @@ global.reloadHandler = async function (restatConn) {
     conn.ev.off('connection.update', conn.connectionUpdate)
     conn.ev.off('creds.update', conn.credsUpdate)
   }
+  
+let welc = `
+❖━━━[ *어서 오십시오* ]━━━❖
+┏––––––━━━━━━━━•
+│☘︎ @subject
+┣━━━━━━━━┅┅┅
+│( 👋 Hallo @user
+├[ *ɪɴᴛʀᴏ* ]—
+│ *ɴᴀᴍᴀ:* 
+│ *ᴜᴍᴜʀ:* 
+│ *ɢᴇɴᴅᴇʀ:*
+┗–––━━┅┅┅
 
-  conn.welcome = '👋 Wellcome @user'
-  conn.bye = '*@user* Meninggalkan Group'
+–––┅┅ *ᴅᴇsᴄʀɪᴘᴛɪᴏɴ* ┅┅––––––
+@desc
+
+Script My Bot`
+let lef = 
+`❖━━━[ *나중에 봐요* ]━━━❖
+𝚂𝚊𝚢𝚘𝚗𝚊𝚛𝚊𝚊 *@user* 👋😃`
+
+  conn.welcome = welc
+  conn.bye = lef
   conn.spromote = '@user sekarang admin!'
   conn.sdemote = '@user sekarang bukan admin!'
   conn.sDesc = 'Deskripsi telah diubah ke \n@desc'
@@ -306,5 +291,5 @@ async function _quickTest() {
 }
 
 _quickTest()
-  .then(() => conn.logger.info('☑️ Berhasil Banh'))
-  .catch(e => format(e))
+  .then(() => conn.logger.info('☑️ Quick Test Done'))
+  .catch(console.error)
